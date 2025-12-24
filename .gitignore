@@ -33,6 +33,9 @@
 #pulldown temp folder
 /spirv-patches-*
 
+# DemoKit output directory
+/out
+
 #==============================================================================#
 # Explicit files to ignore (only matches one).
 #==============================================================================#
